@@ -1,0 +1,101 @@
+id_candidat,nom,prenom,niveau_education,experience,competences,score_entretien,source_candidature
+e3e70682-c209-4cac-a29f-6fbed82c07cd,Fisher,Jonathan,Licence,6,"SQL, Java, Python",37,Autre
+eb1167b3-67a9-4378-bc65-c1e582e2e662,Bowers,Kevin,Master,4,"Python, Java, Data Analysis",38,LinkedIn
+e443df78-9558-467f-9ba9-1faf7a024204,Odonnell,William,Licence,12,"Java, C++, SQL",25,Indeed
+1846d424-c17c-4279-a3c6-612f48268673,Montgomery,John,Licence,14,"SQL, Machine Learning, Data Analysis",93,Recrutement Interne
+b4862b21-fb97-4435-8856-1712e8e5216a,Patrick,Rachel,Licence,11,"SQL, C++, Java",50,Monster
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Nolan,Gabriella,Licence,11,"Data Analysis, C++, Machine Learning",65,LinkedIn
+5a921187-19c7-4df4-8f4f-f31e78de5857,Hamilton,Cheryl,Master,3,"Data Analysis, Java, SQL",79,Recrutement Interne
+8d723104-f773-43c1-b458-a748e9bb17bc,Woods,Michelle,Licence,10,"Machine Learning, C++, SQL",86,Autre
+eb2083e6-ce16-4dba-8ff1-8e0242af9fc3,Dunn,Alexis,Licence,13,"Java, Data Analysis, Machine Learning",99,Autre
+b5d32b16-6619-4cb1-9710-37d1b83e90ec,Summers,Elizabeth,Doctorat,2,"Python, SQL, C++",91,Recrutement Interne
+d3fbf47a-7e5b-4e7f-9ca5-499d004ae545,Dillon,John,Doctorat,7,"SQL, Data Analysis, Python",62,Recrutement Interne
+101fbccc-ded7-43e8-b421-eaeb534097ca,Lee,Ashley,Doctorat,12,"Data Analysis, SQL, Java",11,LinkedIn
+247a8333-f7b0-47d2-8da8-056c3d15eef7,Pratt,Seth,Master,6,"SQL, Data Analysis, Machine Learning",12,Autre
+e005b860-51ef-4922-be43-c49e149818d1,Romero,Sarah,Licence,0,"Machine Learning, SQL, Python",60,LinkedIn
+4a84eb03-8d1f-49b7-8d2b-9deb1beb3711,Mann,Amy,Doctorat,15,"Data Analysis, C++, Python",97,LinkedIn
+3405095c-8a50-46c1-ac18-8efbd080e66e,Maynard,Carrie,Master,5,"SQL, Data Analysis, Machine Learning",7,Recrutement Interne
+1775336d-71ea-4d05-89a3-e80e966e1277,Carlson,Paul,Master,5,"Machine Learning, Python, Java",49,LinkedIn
+2f120554-4a53-48cc-bdfa-bc08935ddd72,Lopez,Jacob,Doctorat,5,"C++, Python, Machine Learning",93,LinkedIn
+42930b33-a81a-4477-bb36-75b89cdeb3e6,Alvarez,Christopher,Doctorat,13,"Data Analysis, Java, C++",44,Autre
+2648ee38-e074-45eb-a156-63abc1f254b8,Mclean,Megan,Licence,3,"Machine Learning, Data Analysis, Java",94,Monster
+d450fe4a-ec4f-417b-b306-d1a8e5eeac76,Fernandez,Peter,Licence,0,"Java, Data Analysis, Python",33,Indeed
+85940927-468f-453d-864a-7a50b48d73f1,Cain,Melissa,Master,7,"Python, Machine Learning, SQL",34,Monster
+d3447490-96fd-45d0-adf2-0806e5214606,Herring,Bethany,Licence,14,"Machine Learning, Python, Java",99,Indeed
+a425799a-a905-4750-be1e-a9c573581a81,Davies,Sabrina,Master,4,"Data Analysis, Java, C++",53,Recrutement Interne
+5306f3f5-1516-4570-9b7c-709acb175a5a,Salazar,Tom,Doctorat,10,"SQL, C++, Java",94,Monster
+30bcab0e-d857-4102-95d4-4936a1515607,Sanchez,Jessica,Master,1,"Python, Data Analysis, Machine Learning",24,Indeed
+5f3f5638-3870-4a14-b490-b6081dfc8352,Norton,Marvin,Licence,10,"Python, C++, Machine Learning",63,Recrutement Interne
+c87a7463-19c1-4a0d-8feb-d845d0dfae43,Thomas,Heidi,Licence,6,"Python, Java, C++",68,Indeed
+a25b59fd-92e8-4269-912e-cbc40b9475b1,Kent,Amanda,Master,9,"C++, Java, Data Analysis",83,Autre
+1fdb8b32-06d5-49e8-92f1-75ffae3b16ec,Reid,Catherine,Licence,2,"Machine Learning, Data Analysis, Java",1,LinkedIn
+176ea1b1-6426-4cd5-9ea4-5cd69371a71f,Wood,Tina,Master,4,"C++, Python, Data Analysis",30,Recrutement Interne
+31d0b664-0589-4877-9b02-52440950fd13,Woodward,Jackson,Doctorat,11,"Java, SQL, Data Analysis",68,LinkedIn
+ba26d851-35e8-479a-baaf-0e891fb797fa,Owen,Sharon,Master,4,"Java, SQL, C++",46,Monster
+9edfa3da-6cf5-4b15-8b53-031d05d51433,Garcia,Jordan,Licence,1,"Python, Machine Learning, C++",87,LinkedIn
+4d125e7f-a59c-4c98-926c-bc8f38884479,Bell,Henry,Master,6,"C++, Python, Java",34,Autre
+98b33c6e-0a14-490a-b795-e98680ee526e,Garcia,Vanessa,Licence,14,"C++, Data Analysis, Machine Learning",50,LinkedIn
+e786ab37-5bca-47be-8298-17c53308fb2e,Dennis,Mary,Licence,10,"Java, Data Analysis, Python",51,Autre
+b29c467d-2b5f-4932-91dc-59efeb21a3f6,Chambers,Tammy,Doctorat,0,"Machine Learning, Data Analysis, Java",88,Indeed
+28805c5d-ad1b-4f60-89e4-dab20edc6d2b,Bruce,Matthew,Master,5,"Machine Learning, Data Analysis, Python",53,Autre
+ebe21368-98c7-4205-9e01-a934402d0baf,Ramos,Gregory,Master,6,"C++, SQL, Java",34,Autre
+e66cd36e-68ef-4f5f-ae68-690a78bc7175,Carroll,William,Master,8,"C++, Machine Learning, Data Analysis",23,LinkedIn
+637e0edc-5b6e-4ae7-a620-81434fbaecc0,Monroe,John,Master,2,"Data Analysis, SQL, Python",37,Indeed
+753c7c99-032f-46ca-b0d9-c2aa8f837ef7,Harmon,Matthew,Master,9,"Java, SQL, Data Analysis",65,Indeed
+2284b7a4-47e7-4593-8b58-85ca0bb2c3f0,Allen,Stephanie,Licence,0,"Data Analysis, Machine Learning, Python",84,Monster
+ac642b4c-49b2-4ded-9c31-d9b25a2b745b,Howard,Stacey,Doctorat,9,"Python, Machine Learning, SQL",81,Recrutement Interne
+21e15094-9efe-4464-9a90-f534a23d4c9d,Baldwin,Paul,Doctorat,13,"Java, SQL, Data Analysis",9,Recrutement Interne
+14aa451c-a69c-4b85-9432-f8db6a174c1c,Smith,James,Licence,1,"SQL, C++, Data Analysis",38,Indeed
+391cf046-3d4a-4d51-a8fa-fd04559b5975,Walsh,Nicholas,Master,4,"C++, Data Analysis, Python",40,Monster
+dfe1b307-9172-4f0a-ac7c-8803e01bbf50,Perry,Richard,Master,0,"Python, Machine Learning, SQL",10,LinkedIn
+c5adf681-6b10-453a-9145-de05b3ab1b2c,Bates,Brandon,Doctorat,0,"Python, SQL, Data Analysis",8,Recrutement Interne
+b3969057-425c-4200-905a-da6b720299e3,Moore,Allison,Doctorat,6,"Machine Learning, C++, SQL",56,LinkedIn
+9a9e4310-8fb8-4bab-a875-4cd37cbd7025,Campos,Nicole,Master,6,"C++, Machine Learning, SQL",56,Indeed
+d675ebf7-4fe3-4c9a-9371-0f577e9cf84f,Owens,Lisa,Master,12,"C++, Java, Machine Learning",87,Monster
+6a46721a-cffa-4cdd-b963-a7efe00111e5,Lopez,Yvonne,Master,6,"Java, Machine Learning, C++",53,Monster
+d663049d-155e-48b1-ba83-ada4a2121ac5,Swanson,Valerie,Doctorat,1,"Python, C++, SQL",37,LinkedIn
+6ae04d52-adb3-48cb-b315-8c0c66dd7794,Stewart,Jason,Doctorat,10,"Python, Machine Learning, C++",8,Monster
+faf1501b-009a-415b-8137-8be5b7a28e0a,Carson,Allison,Doctorat,1,"Machine Learning, Java, C++",69,LinkedIn
+9bbd750d-1e70-4c52-b0c1-fb6a19086515,Banks,Morgan,Doctorat,3,"Java, SQL, Data Analysis",89,Autre
+2ea60b99-fa7f-48bf-b044-284a47acf2f6,Garcia,Melissa,Licence,3,"Python, C++, Machine Learning",89,LinkedIn
+0597aab6-14d3-4dbc-a0ac-f4c9658de17e,Hill,Shawn,Master,6,"Machine Learning, C++, Python",77,Indeed
+41a93f90-dc82-4527-9da3-b7e2cad6e514,Anderson,Abigail,Licence,3,"SQL, Data Analysis, Machine Learning",33,Autre
+1d77ce40-58d8-4776-a51a-d4f3a699bae0,Wiggins,Joshua,Master,10,"Python, Data Analysis, C++",74,Monster
+34ab18fd-0a68-488e-8ad4-041504c14982,Becker,Angela,Master,0,"Python, Data Analysis, Machine Learning",62,Recrutement Interne
+914591ae-f03d-466a-9dec-c06af24dfdd8,Browning,Bobby,Master,6,"SQL, C++, Data Analysis",69,Monster
+9b8b71a1-b38a-45fb-b611-64cebfc74ca9,Rios,Jennifer,Master,14,"SQL, Python, Machine Learning",16,LinkedIn
+6f790959-a3e0-4b3b-b56b-0715e7180322,Watson,Amanda,Master,8,"Python, Machine Learning, C++",89,LinkedIn
+4a814d53-964d-4b77-a025-f0ae35354579,Smith,Edward,Master,14,"SQL, C++, Python",44,LinkedIn
+5e00ea6d-ca24-4e4d-9667-2017555a4085,Higgins,Matthew,Doctorat,13,"Data Analysis, Machine Learning, C++",55,Monster
+4505f4f6-0a8c-46c7-8921-5f4f9edb95f2,Martin,Tina,Master,1,"C++, Python, Data Analysis",25,Indeed
+fd42f697-6511-4656-9c64-60364a1eb1b7,Kelley,Kelly,Licence,15,"Java, C++, Data Analysis",91,LinkedIn
+ef0a81ed-3d5d-40bc-bb03-78eb7a62722e,Williams,Hayden,Doctorat,10,"Java, C++, Python",58,Monster
+4d7bd307-1224-41e6-ba89-82dd85e69ea9,Powell,Mark,Licence,4,"C++, Data Analysis, SQL",59,Autre
+8f928dc5-1972-4ce3-9bd0-94486a2b3200,Kerr,Thomas,Doctorat,6,"SQL, Machine Learning, C++",18,Autre
+cff4c56b-f9ea-4c64-8c41-7e7cd741d609,Cooper,Timothy,Licence,3,"Machine Learning, Python, Java",88,Autre
+09aedbd0-6d31-4b4a-bf6b-8793b318ad4c,Turner,Jessica,Doctorat,12,"SQL, C++, Python",91,Autre
+2aa36cf7-eb70-4a65-a7d9-9a23e4f7625e,Sims,Nicholas,Licence,0,"Python, SQL, C++",21,Autre
+16408169-a38d-4afc-bdd2-ed7af97ccc57,Jones,Christopher,Licence,10,"Java, Python, Data Analysis",17,Recrutement Interne
+62830869-0fa7-4e05-b897-4df5bff773ce,Smith,Phillip,Licence,15,"Machine Learning, Java, SQL",57,Monster
+eb8f2056-72d3-4c5d-8a31-b24384dd6da6,Burns,Brenda,Licence,10,"Python, Data Analysis, C++",85,LinkedIn
+156af458-6c4c-4935-b79d-eda1ade6c5e9,Richardson,Vanessa,Master,3,"C++, Python, Machine Learning",19,Indeed
+2aa50f4e-c6f0-4933-95d1-805142cb6d1d,Reynolds,Michael,Master,3,"Python, Machine Learning, Data Analysis",59,LinkedIn
+da54f267-dd13-4266-926d-53961058fe8c,Miles,Rebecca,Doctorat,14,"SQL, Java, Data Analysis",48,Recrutement Interne
+33a1d1c2-ad4a-4155-809f-cd8f739cd488,Wilson,Raymond,Doctorat,3,"C++, SQL, Python",35,Recrutement Interne
+ff3e0ba1-0ac7-48b4-a418-65bf350d278d,Gould,Jason,Licence,15,"Machine Learning, Python, Data Analysis",99,Indeed
+755a3ac1-32ae-4a20-9ac9-02ee25777cf0,Gray,Amy,Doctorat,8,"Machine Learning, C++, SQL",46,Monster
+98a33736-fd1a-47ce-9ad0-a6f226bdd974,Bird,Eddie,Master,14,"Python, Machine Learning, Java",38,Monster
+6c596216-ae0f-4bc8-a36b-cb0167e98363,Rich,Tyler,Doctorat,5,"C++, Java, Data Analysis",69,Indeed
+d5627386-528c-4241-a345-ac72eac39204,Jimenez,Victor,Master,13,"Java, Data Analysis, Machine Learning",84,Autre
+8af58903-33b5-43ce-9fec-4623ab899605,Lynch,Jeffery,Doctorat,7,"Java, C++, SQL",27,Indeed
+bf3df0bb-f66a-4168-b4a1-ca795718ada2,Nolan,Lisa,Licence,7,"SQL, C++, Machine Learning",35,Indeed
+dfde2281-25fb-4f3d-866d-7002091472ad,Scott,Kristen,Master,8,"Data Analysis, Machine Learning, Python",40,LinkedIn
+4b5ca436-953c-478e-a106-7a8cd7a3283c,Robbins,Lindsay,Master,10,"C++, Machine Learning, Python",73,Autre
+843b2a7d-15ab-4c21-8cc9-3ff710fce97d,Melton,Benjamin,Doctorat,3,"Java, SQL, Data Analysis",2,Autre
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Smith,Megan,Doctorat,14,"SQL, Machine Learning, Java",11,Recrutement Interne
+ccf719ab-2922-4bd8-9ca5-b35354a1d505,Hernandez,Diana,Licence,10,"Java, SQL, C++",63,Indeed
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Santana,Wayne,Master,1,"Java, Python, SQL",69,LinkedIn
+cb4d18d6-adb6-4a35-9734-a26c92e94e89,Trujillo,Katherine,Master,14,"SQL, Python, Java",17,LinkedIn
+6d265dd8-bf39-4fbb-938c-3460fd938adc,Bullock,Jamie,Licence,8,"C++, SQL, Python",64,Monster
+6af79ad2-993e-48c6-a6b1-06e289110af0,Petersen,Timothy,Doctorat,1,"SQL, Java, C++",13,Monster
+9b8086da-6379-4035-b8e4-5086ca819c6f,Willis,Melissa,Licence,12,"C++, Python, SQL",47,LinkedIn

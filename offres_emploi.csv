@@ -1,0 +1,11 @@
+id_poste,intitule_poste,departement,niveau_experience_requis,date_publication,salaire
+e2a01335-a830-43ab-853e-4b42cc4da021,Chef de Projet,Marketing,Junior,2024-01-01,58997
+81c16e98-4d6c-4782-ae95-83eabda17da2,Développeur Python,Opérations,Senior,2024-08-09,79366
+7e56ac3d-10cc-4711-952a-e5ca4124405b,Développeur Python,Ressources Humaines,Intermédiaire,2024-04-11,74880
+c5c14262-4d84-4ec5-9334-886ff164f9d8,Développeur Python,Opérations,Intermédiaire,2024-06-07,45670
+0ff030b8-6238-40a0-8f5e-9ea362584ab3,Chef de Projet,Opérations,Senior,2024-03-04,71323
+3d2bf042-2098-48d1-af7e-85eca417956f,Consultant,Marketing,Junior,2024-04-21,36547
+0e370526-5582-43bd-9476-fe38babd4745,Data Scientist,Opérations,Senior,2024-01-14,76469
+7de8a234-2412-479d-aaf9-44e07b38785b,Analyste,Marketing,Intermédiaire,2024-08-21,41417
+b2ddc481-ac6d-4df8-94e5-064cb799ae8e,Chef de Projet,Marketing,Intermédiaire,2024-02-28,47337
+69407be7-5a4f-4145-bc98-c279cf6f111c,Chef de Projet,Ressources Humaines,Junior,2024-01-14,59228
